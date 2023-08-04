@@ -1,4 +1,31 @@
+/* CRUD PAGE */
+
 .main-title {
   background-color: rgb(0, 0, 0);
   color: #fff;
+}
+
+/* LOGIN PAGE */
+
+.panel_window {
+  width: 500px;
+}
+
+/* Media query for small screens (e.g., smartphones) */
+@media (max-width: 767px) {
+  .panel_window {
+    width: 300px;
+  }
+}
+
+/* Media query for medium screens (e.g., tablets) */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/* Media query for large screens (e.g., desktops) */
+@media (min-width: 992px) {
+}
+
+/* Media query for extra-large screens (e.g., large desktops) */
+@media (min-width: 1200px) {
 }

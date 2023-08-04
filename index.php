@@ -3,9 +3,6 @@ include("header.php");
 include("database.php");
 ?>
 
-
-
-
 <script>
   $(document).ready(function() {
     //Fetch the data from database to set value of forms
