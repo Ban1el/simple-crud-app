@@ -43,7 +43,7 @@ include("database.php");
 </script>
 
 <div class="">
-  <button class="btn btn-primary my-3">LOG-OUT</button>
+  <a href="./login_page.php"><button class="btn btn-primary my-3">LOG-OUT</button></a>
   <button class="btn btn-primary my-3" data-bs-toggle="modal" data-bs-target="#add_user_modal">ADD USER</button>
 </div>
 
